@@ -1,5 +1,5 @@
 applications:
-- name: asistente-hoteleria
+- name: asistente-hoteleria-v2
   command: npm start
   path: .
   memory: 256M
