@@ -13,7 +13,7 @@
 
 ![Demo](readme_images/demo.gif)
 
-You can view a [demo][demo_url] of this app.
+You can view a [demo][demo_url] of this app. O la demo del [Asistente Perruno](https://asistente-hoteleria-v2.mybluemix.net/)
 
 Please note this app uses the [Watson Assistant V2 API](https://cloud.ibm.com/apidocs/assistant-v2#introduction). To access a version of the V1 app, you can go to [v1.4.1](https://github.com/watson-developer-cloud/assistant-simple/releases/tag/v1.4.1).
 
@@ -150,7 +150,7 @@ Find more open source projects on the
 [IBM Github Page](http://ibm.github.io/).
 
 
-[demo_url]: https://asistente-hoteleria.apic.mybluemix.net/
+[demo_url]: https://assistant-simple.ng.bluemix.net
 [doc_intents]: https://cloud.ibm.com/docs/services/conversation/intents-entities.html#planning-your-entities
 [docs]: https://cloud.ibm.com/docs/services/assistant/index.html#index
 [docs_landing]: (https://cloud.ibm.com/docs/services/assistant/index.html#index)
