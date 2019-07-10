@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none;">🚀 Asistente de Hoteleria Perruno</h1>
 <h3 align="center">Esta aplicación de Node.js demuestra el backend del asistente Richard. Richard ha estado presente en muchas charlas y talleres ayudando a enseñar los conceptos de Watson Assistant! Este repo explica cómo instanciarlo tu mismo en tu cuenta de IBM Cloud o de forma local.</h3>
-<h3 align="center">Este repositorio es un fork de [Watson Assistant Simple](https://github.com/watson-developer-cloud/assistant-simple), pero la guía funciona exactamente igual para instanciar a nuestro asistente perruno.</h3>
+<h3 align="center">Este repositorio es un fork de https://github.com/watson-developer-cloud/assistant-simple, pero la guía funciona exactamente igual para instanciar a nuestro asistente perruno.</h3>
 <p align="center">
   <a href="http://travis-ci.org/watson-developer-cloud/assistant-simple">
     <img alt="Travis" src="https://travis-ci.org/watson-developer-cloud/assistant-simple.svg?branch=master">
